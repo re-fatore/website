@@ -1,11 +1,12 @@
 ---
-title: "Bill McDonald"
+title: "David Souza"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
-jobtitle: "Graphic Designer"
-linkedinurl: ""
-weight: 7
+image: "https://media-exp3.licdn.com/dms/image/C4D03AQHeRhoqvr30Jg/profile-displayphoto-shrink_200_200/0/1561216477348?e=1629331200&v=beta&t=05joIYsVwIRpFNevutDI3WnrptFNZaAUL-bmg5W_wlg"
+jobtitle: "Professor"
+linkedinurl: "https://www.linkedin.com/in/souza-david/"
+promoted: true
+weight: 1
 layout: team
 ---
 

@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Refatore'
 
 google_analytics_id: ""
 
@@ -16,14 +16,14 @@ footer:
   copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
 
 seo:
-  meta_og_title: "Jekyll Serif Theme"
+  meta_og_title: "Refatore curso de programação"
   meta_og_type: "website"
-  meta_og_url: "https://jekyll-serif.netlify.app"
-  meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
-  meta_og_description: "Jekyll Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
+  meta_og_url: "https://refatore.com"
+  meta_og_image: "https://re-fatore.github.io/website/images/logo/logo.png"
+  meta_og_description: "Cursos de programaçao de programadores para programadores"
   meta_twitter_card: "summary"
-  meta_twitter_site: "@zerostaticio"
-  meta_twitter_creator: "@zerostaticio"
+  meta_twitter_site: "@basask"
+  meta_twitter_creator: "@basask"
 
 collections:
   services:

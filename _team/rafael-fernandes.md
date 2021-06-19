@@ -1,10 +1,10 @@
 ---
-title: "Sage Kirk"
+title: "Rafael Fernandes"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/sage-kirk-485982-unsplash.jpg"
-jobtitle: "Accounting Partner"
-linkedinurl: "https://www.linkedin.com/example2"
+image: "https://media-exp3.licdn.com/dms/image/C4E03AQGszRduP751NQ/profile-displayphoto-shrink_200_200/0/1616536927945?e=1629331200&v=beta&t=PQ5DA1r6xCEUvzLaszrU9_bpvsDs4z9W3T7rNydiZ8c"
+jobtitle: "Professor"
+linkedinurl: "https://www.linkedin.com/in/basask/"
 promoted: true
 weight: 2
 layout: team

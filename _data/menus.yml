@@ -1,14 +1,14 @@
 main:
-  - name: "Services"
+  - name: "Cursos"
     url: "/services/"
     weight: 2
-  - name: "Team"
+  - name: "Time"
     url: "/team/"
     weight: 3
-  - name: "About"
+  - name: "Sobre"
     url: "/about/"
     weight: 4
-  - name: "Contact"
+  - name: "Contato"
     url: "/contact/"
     weight: 5
 
@@ -16,6 +16,6 @@ footer:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "Contact"
+  - name: "Contato"
     url: "/contact/"
     weight: 2

@@ -6,6 +6,8 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# Cursos de programação para crianças e adolescentes
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Aprenda a programar enquanto se diverte com a plataforma de programação.
+
+Monte jogos, aplicativos e faça novas amizades.
