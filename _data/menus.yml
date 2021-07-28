@@ -2,7 +2,7 @@ main:
   - name: "Cursos"
     url: "/services/"
     weight: 2
-  - name: "Time"
+  - name: "O Time"
     url: "/team/"
     weight: 3
   - name: "Sobre"

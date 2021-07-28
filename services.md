@@ -10,4 +10,4 @@ intro_image_hide_on_mobile: false
 
 Aprenda a programar enquanto se diverte com a plataforma de programação.
 
-Monte jogos, aplicativos e faça novas amizades.
+Desenvolva jogos, aplicativos e faça novas amizades.

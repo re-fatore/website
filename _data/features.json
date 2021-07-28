@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Aprenda",
+    "description": "Aprenda uma nova habilidade",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Expanda",
+    "description": "Abra novas portas para seu futuro",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Evolua",
+    "description": "Seja agora o profissional do amanhã",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
