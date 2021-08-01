@@ -1,4 +1,5 @@
-baseurl: "/"
+url: "https://refatore.com"
+baseurl: /website
 permalink: pretty
 title: 'Refatore'
 
