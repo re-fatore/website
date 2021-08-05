@@ -7,7 +7,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Simples, divertido e tecnológica: Conheça a Refatore.
+# Simples, divertida e tecnológica: Conheça a Refatore.
 
 Somos uma escola de educação tecnológica. Com uma metodologia inovadora, ensinamos os alunos a criarem aplicativos, jogos e websites, de maneira simples, divertida e tecnológica.
 
