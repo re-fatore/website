@@ -7,6 +7,8 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Refatore - Cursos de programação.
+# Simples, divertido e tecnológica: Conheça a Refatore.
 
-Aprenda a programar de forma prática e divertida.
+Somos uma escola de educação tecnológica. Com uma metodologia inovadora, ensinamos os alunos a criarem aplicativos, jogos e websites, de maneira simples, divertida e tecnológica.
+
+Entendemos os desafios que os administradores de escolas e municípios enfrentam. Por isso, oferecemos a maneira mais fácil de aplicar programação nas escolas, sem a necessidade de contratar professores especialistas. Conheça a Refatore.
