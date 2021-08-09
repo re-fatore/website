@@ -1,17 +1,17 @@
 [
   {
-    "title": "Aprenda",
-    "description": "Aprenda uma nova habilidade",
+    "title": "Indicadores estratégicos",
+    "description": "A Refatore fornece diversos indicadores-chave de desempenho que orientam os gestores na tomada de decisão. Por meio deles, é possível quantificar os resultados dos alunos e direcionar recursos e esforços de maneira inteligente para alcançar os objetivos das escolas.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Expanda",
-    "description": "Abra novas portas para seu futuro",
+    "title": "Professores empoderados",
+    "description": "Oferecemos a maneira mais fácil de aplicar programação nas escolas, sem a necessidade de contratar professores especialistas. Capacitamos os professores para serem independentes e terem domínio no ensino de programação.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Evolua",
-    "description": "Seja agora o profissional do amanhã",
+    "title": "Educação tecnológica",
+    "description": "A Refatore ajuda o seu município a preparar os seus alunos para a educação do século 21. Com uma metodologia inovadora, ensinamos os alunos a criarem aplicativos, jogos e websites, de maneira simples, divertida e tecnológica.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
