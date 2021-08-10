@@ -1,7 +1,15 @@
 <div class="call">
   <div class="call-box-top">
     {% if site.data.contact.phone %}
-        <div class="call-phone"><strong>Telefone: </strong> {{ site.data.contact.phone }} </div>
+        <div class="call-phone">
+          <strong>Telefone: </strong> 
+          {% if site.data.contact.whats_number %}
+          <a href="https://api.whatsapp.com/send?phone={{site.data.contact.whats_number}}&text={{site.data.contact.whats_message}}" target="_blank">
+            <img src="/images/social/whatsapp-32x32.svg" alt="Logo Whatsapp"/>
+          </a>
+          {% endif %}
+          {{ site.data.contact.phone }} 
+        </div>
     {% endif %}
     {% if site.data.contact.email %}
     <div class="call-email"><strong>Email: </strong>
