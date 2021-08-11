@@ -53,6 +53,6 @@ As crianças aprendem por conta própria, com uma abordagem guiada e prática, q
 
 # Indicadores estratégicos
 
-Economize tempo e esforço avaliando a evolução de seus alunos. A Refatore fornece diversos indicadores-chave de desempenho que orientam os gestores na tomada de decisão. Por meio deles, é possível quantificar os resultados dos alunos e direcionar recursos e esforços de maneira inteligente para alcançar os objetivos das escolas.
+Economize tempo e esforço avaliando a evolução de seus alunos. A Refatore fornece diversos indicadores de desempenho que orientam os gestores no processo de tomada de decisão. Por meio deles é possível visualizar métricas de desempenho de alunos e escolas tornando o direcionamento de recursos mais inteligente e efetivo.
 
 Os professores podem passar mais tempo com os alunos que precisam de ajuda extra e menos tempo preparando as aulas.
