@@ -3,6 +3,7 @@ title: "Educadores"
 date: 2021-02-28T19:00:00-03:00
 featured: true
 weight: 2
+icon: /images/icons/icon-educator.svg
 layout: service
 ---
 

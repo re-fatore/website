@@ -3,6 +3,7 @@ title: "Municípios"
 date: 2021-02-28T19:00:00-03:00
 featured: true
 weight: 1
+icon: /images/icons/icon-city.svg
 layout: service
 ---
 

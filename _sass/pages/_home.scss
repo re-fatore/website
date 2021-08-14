@@ -1,2 +1,18 @@
 .page-home {
 }
+
+.service-title {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+}
+
+.service-title h2 {
+}
+
+.service-title img {
+    // width: 40px;
+    height: 56px;
+    margin: 5px;
+}
