@@ -4,7 +4,7 @@ layout: contact
 bodyClass: page-contact
 ---
 
-Entendemos os desafios que os administradores de municípios enfrentam. Por isso, oferecemos a maneira mais fácil de aplicar programação nas escolas, sem a necessidade de contratar professores especialistas. Experimente nossos cursos, de maneira simples, divertida e tecnológica. Entre em contato.
+Entendemos os desafios que educadores e administradores de municípios enfrentam. Por isso, oferecemos a maneira mais fácil de aplicar programação nas escolas, sem a necessidade de contratar professores especialistas. Experimente nossos cursos, de maneira simples, divertida e tecnológica. Entre em contato.
 
 | Dia             | Horário        |
 | --------------- | --------------- |
