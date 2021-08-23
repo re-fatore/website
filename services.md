@@ -1,5 +1,5 @@
 ---
-title: Services
+title: Cursos
 layout: services
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
