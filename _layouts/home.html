@@ -33,7 +33,9 @@ bodyClass: page-home
               <img src="{{ service.icon }}" alt="Icone para seção {{service.title}}"/>
               <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
             </h2>
-            <p>{{ service.content | markdownify | strip_html | truncate: 300 }}</p>
+            <p>{{ service.content | markdownify | strip_html | truncate: 300 }} 
+              <a class="link-inline" href="{{ service.url | relative_url }}">Saiba mais</a>
+            </p>
           </div>
         </div>
       </div>

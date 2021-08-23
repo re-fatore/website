@@ -28,10 +28,13 @@ bodyClass: page-services-list
           <h2 class="service-title">
             <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
           </h2>
-          <p>{{ service.content | markdownify | strip_html | truncate: 312 }}</p>
+          <p>{{ service.content | markdownify | strip_html | truncate: 312 }} 
+            <a class="link-inline" href="{{ service.url | relative_url }}">Saiba mais</a>
+          </p>
         </div>
       </div>
     </div>
     {% endfor %}
   </div>
 </div>
+ 
