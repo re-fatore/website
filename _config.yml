@@ -12,17 +12,14 @@ logo:
   desktop_height: "36px"
 
 footer:
-  copyright_text: 'De programadores para programadores - Refatore 2021'
+  copyright_text: 'Programação para escolas públicas - Refatore 2021'
 
 seo:
-  meta_og_title: "Refatore curso de programação"
+  meta_og_title: "Refatore | Programação para escolas públicas"
   meta_og_type: "website"
   meta_og_url: "https://refatore.com"
   meta_og_image: "https://re-fatore.github.io/website/images/logo/logo.png"
-  meta_og_description: "Cursos de programação de programadores para programadores"
-  meta_twitter_card: "summary"
-  meta_twitter_site: "@basask"
-  meta_twitter_creator: "@basask"
+  meta_og_description: "Simples, divertida e tecnológica: Conheça a Refatore."
 
 collections:
   services:
